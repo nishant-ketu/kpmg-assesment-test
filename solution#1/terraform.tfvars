@@ -1,0 +1,6 @@
+environment = "dev"
+region      = "us-west1"
+ubuntu22_image = "projects/ubuntu-os-cloud/global/images/family/ubuntu-2204-lts"
+vm_type = "n1-standard-2"
+db_availability = "ZONAL"
+db_tier = "db-f1-micro"
